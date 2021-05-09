@@ -1,0 +1,10 @@
+README
+setup.cfg
+setup.py
+SuperWires.egg-info/PKG-INFO
+SuperWires.egg-info/SOURCES.txt
+SuperWires.egg-info/dependency_links.txt
+SuperWires.egg-info/top_level.txt
+superwires/__init__.py
+superwires/color.py
+superwires/games.py
